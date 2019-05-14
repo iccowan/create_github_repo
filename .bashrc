@@ -1,0 +1,1 @@
+alias github="c:/Windows/System32/github.bat"
